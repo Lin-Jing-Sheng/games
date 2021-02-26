@@ -1,0 +1,96 @@
+{
+  "success": true,
+  "stateCode": 200,
+  "retCode": "M_DEPT_INFO_108",
+  "retMsg": "查询成功",
+  "body": {
+    "total": 15,
+    "data": [
+      {
+        "id": 2,
+        "deptCode": "1", 
+        "deptName": "测试部门12",
+        "parentDept": "徐闻港",
+        "deptType": "港口",
+        "state": "1",
+        "remark": "1225432",
+        "sortId": "1"
+      },
+      {
+        "id": 3,
+        "deptCode": "2", 
+        "deptName": "财务部",
+        "parentDept": "徐闻港",
+        "deptType": "港口",
+        "state": "1",
+        "remark": "1225432",
+        "sortId": "1"
+      },
+      {
+        "id": 4,
+        "deptCode": "4", 
+        "deptName": "售票部",
+        "parentDept": "徐闻港",
+        "deptType": "港口",
+        "state": "1",
+        "remark": "1225432",
+        "sortId": "1"
+      },
+      {
+        "id": 5,
+        "deptCode": "5", 
+        "deptName": "调度中心",
+        "parentDept": "徐闻港",
+        "deptType": "港口",
+        "state": "1",
+        "remark": "1225432",
+        "sortId": "1"
+      },{
+        "id": 6,
+        "deptCode": "6", 
+        "deptName": "船方",
+        "parentDept": "",
+        "deptType": "船方",
+        "state": "1",
+        "remark": "122543",
+        "sortId": "1"
+      },{
+        "id": 7,
+        "deptCode": "7", 
+        "deptName": "人工检票组",
+        "parentDept": "徐闻港",
+        "deptType": "港口",
+        "state": "1",
+        "remark": "1225432",
+        "sortId": "1"
+      },{
+        "id": 8,
+        "deptCode": "8", 
+        "deptName": "广东徐闻海峡航运有限公司",
+        "parentDept": "调度中心",
+        "deptType": "船方",
+        "state": "1",
+        "remark": "1225432",
+        "sortId": "1"
+      },{
+        "id": 9,
+        "deptCode": "12", 
+        "deptName": "海棠湾",
+        "parentDept": "船方",
+        "deptType": "港口",
+        "state": "1",
+        "remark": "1225432",
+        "sortId": "1"
+      },{
+        "id": 10,
+        "deptCode": "100", 
+        "deptName": "安检部",
+        "parentDept": "徐闻港",
+        "deptType": "港口",
+        "state": "1",
+        "remark": "1225432",
+        "sortId": "1"
+      }
+    ]
+  }
+}

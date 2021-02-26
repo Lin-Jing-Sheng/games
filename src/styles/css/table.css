@@ -1,0 +1,32 @@
+/* dialog弹出表格展示 */
+.dialog-table{
+    width:100%;
+    border-bottom:1px solid #EBEEF5;
+    border-right:1px solid #EBEEF5;
+  }
+  .dialog-table tr{
+    height: 40px;
+  }
+  .dialog-table-tr-left{
+    width:25%;
+    border-left:1px solid #EBEEF5;
+    border-top:1px solid #EBEEF5;
+    padding-left:10px;
+    text-align:left;
+  }
+  .dialog-table-tr-right{
+    width:25%;
+    border-left:1px solid #EBEEF5;
+    border-top:1px solid #EBEEF5;
+    padding-right:10px;
+    text-align:right;
+  }
+  .dialog-table .el-input__inner{
+    height: 30px;
+    line-height: 30px;
+    width:90%;
+    margin-left:5%;
+  }
+  .dialog-table .el-input__icon{
+    line-height: 30px;
+  }
